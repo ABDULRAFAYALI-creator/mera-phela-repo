@@ -1,2 +1,3 @@
 git seekh raha hon
 dosri line joro
+clone wale folder se likha
